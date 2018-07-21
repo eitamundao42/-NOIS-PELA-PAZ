@@ -1,0 +1,90 @@
+body{
+background: rgb(0, 162, 255)
+}
+
+h1{
+    text-transform: uppercase;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#Menu{
+right: 40px;
+position: absolute;
+top: 40px;
+}
+
+/* button{
+    margin: 15px 0;
+}
+
+#a{
+        right: 40px;
+    position: absolute;
+    top: 90px;
+}
+
+#b{
+    right: 40px;
+    position: absolute;
+    top: 110px;
+}
+
+#c{
+    right: 40px;
+    position: absolute;
+    top: 130px;
+}
+
+#d{
+    right: 40px;
+    position: absolute;
+    top: 150px;
+}
+
+#e{
+    right: 40px;
+    position: absolute;
+    top: 170px;
+}
+
+#f{
+    right: 40px;
+    position: absolute;
+    top: 190px;
+}
+
+#g{
+    right: 40px;
+    position: absolute;
+    top: 210px;
+} */
+
+button{
+    margin: 10px 0;
+}
+
+#botoes{
+    position: absolute;
+    right: 40px;
+    top: 90px;
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#ag{
+    border-radius: 50%;
+    height: 220px;
+    width: 220px;
+}
+
+#link{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+text-form
+}
